@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Conversion output
+output/
+*.wav
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local tooling / caches
+.artifacts/
+.gradle_user/
+
+# Android / Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+!android_app/gradle/wrapper/gradle-wrapper.jar
